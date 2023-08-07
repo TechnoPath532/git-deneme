@@ -1,3 +1,3 @@
 <body>
-    <style></style>
+    <style>debug_backtrace</style>
 </body>
